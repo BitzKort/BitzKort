@@ -1,7 +1,7 @@
 
 ## About me
 
-I'm a ninth semester student of Systems Engineering at Universidad del Valle. I like challenges and discovering new technologies. #FullStack 👨‍💻
+I'm a final semester student of Systems Engineering at Universidad del Valle. I like challenges and discovering new technologies. #FullStack 👨‍💻
 
 🔭 I’m currently working on <code> Web Development </code> with <code> Node.js </code> and <code> React.js </code>
 
